@@ -320,6 +320,11 @@ h1,h2,h3,h4,h5,h6 {
 	background-color: transparent;
 	border: none;
 }
+.sort{
+	background-image:url(../images/browsers64.png);
+	background-color: transparent;
+	border: none;
+}
 .minimize{
 	background-image:url(../images/min64.png);
 	background-color: transparent;
